@@ -4,6 +4,10 @@ A simple ray-tracer implemented with basic shading, shadows, and reflection
 
 This project presents the implementation of a ray-tracer, showcasing fundamental ray-tracing techniques such as the basic ray-tracing algorithm, Phong shading, shadow rays, and recursive reflection.
 
+# Outputs
+
+![Output](./StarterVersion/ResImg/Results.png)
+
 # Usage:
 
 \$ make
