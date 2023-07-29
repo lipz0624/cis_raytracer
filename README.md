@@ -6,6 +6,8 @@ This project presents the implementation of a ray-tracer, showcasing fundamental
 
 # Usage:
 
-make
-./trace [options] [inputfiles] [outputfiles]
-./trace ../InputFiles/teapot.nnf ./teapot.ppm
+\$ make
+
+\$ ./trace [options] [inputfiles] [outputfiles]
+
+\$ ./trace ../InputFiles/teapot.nnf ./teapot.ppm
